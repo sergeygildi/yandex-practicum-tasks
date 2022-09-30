@@ -1,4 +1,4 @@
-package javacore.sprint4.task1;
+package javacore.sprint4.OOP.task1;
 
 public class Main {
     public static void main(String[] args) {

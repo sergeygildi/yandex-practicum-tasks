@@ -1,4 +1,4 @@
-package javacore.sprint4.task2;
+package javacore.sprint4.OOP.task2;
 
 import java.util.Random;
 import java.util.Scanner;
