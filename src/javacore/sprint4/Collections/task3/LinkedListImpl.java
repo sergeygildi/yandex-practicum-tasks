@@ -4,6 +4,7 @@ import java.util.NoSuchElementException;
 
 /**
  * An implementation of the LinkedList Collection
+ *
  * @param <T>
  */
 public class LinkedListImpl<T> {
